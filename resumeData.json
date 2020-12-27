@@ -99,7 +99,7 @@
       {
         "title": "Stain Invariance",
         "category": "Stain Invariant histology based on unsupervised domain adaptataion",
-        "image": "stain.png"
+        "image": "stain.PNG"
       }
     ]
   }

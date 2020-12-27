@@ -1,0 +1,106 @@
+{
+  "main": {
+    "name": "Apoorv Goel",
+    "occupation": "software engineer @Qualcomm",
+    "description": "I like to make computers see and interact with the world",
+    "image": "Apoorv_closeup.jpg",
+    "bio": "My name is Apoorv, I like to build technology without restricting to a specific domain. But most of my works have been related to computer vision and robotics.",
+    "email": "ap [dot] [my last name]98@gmail.com",
+    "phone": "+1 800 NAZ DUMA",
+    "address": {
+      "city": "Hyderabad",
+      "state": "Telangana"
+    },
+    "website": "http://www.timbakerdev.com",
+    "resumedownload": "http://timbakerdev.com",
+    "social": [
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/apoorv-goel-219ab1151/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/UnderscoreAsterisk",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+    "education": [
+      {
+        "school": "University of Michigan - Dearborn",
+        "degree": "Bachelor's Degree, Computer Science",
+        "graduated": "January 2017",
+        "description": "Graduated with Distinction"
+      }
+    ],
+    "work": [
+      {
+        "company": "Clever Programmer",
+        "title": "JavaScript/Python Specialist",
+        "years": "May 2019 - Present",
+        "description": "Transforming the lives of people by teaching them how to become successful developers no matter if they are a beginner or not!"
+      },
+      {
+        "company": "NazaWEb",
+        "title": "Founder / Developer",
+        "years": "Jan 2019 - Present",
+        "description": "Helping businesses showing their best selves to clients."
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "100%"
+      },
+      {
+        "name": "Python",
+        "level": "95%"
+      },
+      {
+        "name": "Git",
+        "level": "75%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "100%"
+      },
+      {
+        "name": "MongoDB",
+        "level": "80%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "DynamicFusion",
+        "category": "Implementation of the CVPR 2015 best paper",
+        "image": "dynafu_sitting.png",
+        "url": "https://www.youtube.com/watch?v=68WBnkML_GA"
+      },
+      {
+        "title": "Unmanned Ground Vehicle",
+        "category": "Autonomous rover for outdoor terrain",
+        "image": "UGV.jpeg"
+      },
+      {
+        "title": "EveryWear",
+        "category": "Gesture controlled UI for smart mirror",
+        "image": "everywear.png"
+      },
+      {
+        "title": "SCK",
+        "category": "Sparse Coding based Keypoint Detector",
+        "image": "SCK.png"
+      },
+      {
+        "title": "Stain Invariance",
+        "category": "Stain Invariant histology based on unsupervised domain adaptataion",
+        "image": "stain.png"
+      }
+    ]
+  }
+}

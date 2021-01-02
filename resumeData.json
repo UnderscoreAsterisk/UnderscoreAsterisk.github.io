@@ -2,14 +2,13 @@
   "main": {
     "name": "Apoorv Goel",
     "occupation": "software engineer @Qualcomm",
-    "description": "I like to make computers see and interact with the world",
+    "description": "I aspire to make lives easier using technology.",
     "image": "Apoorv_closeup.jpg",
-    "bio": "My name is Apoorv, I like to build technology without restricting to a specific domain. But most of my works have been related to computer vision and robotics.",
+    "bio": "I graduated with a B.Tech in computer engineering from Delhi Technological University in July 2020. Besides programming for embedded systems (which I do profesionally), my skills involve making machines see and interact with the world.",
     "email": "ap [dot] [my last name]98@gmail.com",
-    "phone": "+1 800 NAZ DUMA",
     "address": {
-      "city": "Hyderabad",
-      "state": "Telangana"
+      "city": "New Delhi",
+      "state": "India"
     },
     "website": "http://www.timbakerdev.com",
     "resumedownload": "http://timbakerdev.com",
@@ -76,27 +75,35 @@
   "portfolio": {
     "projects": [
       {
+        "id": "dynafu",
         "title": "DynamicFusion",
         "category": "Implementation of the CVPR 2015 best paper",
         "image": "dynafu_sitting.png",
-        "url": "https://www.youtube.com/watch?v=68WBnkML_GA"
+        "url": "https://github.com/opencv/opencv_contrib/pull/2161"
       },
       {
+        "id": "ugv",
         "title": "Unmanned Ground Vehicle",
         "category": "Autonomous rover for outdoor terrain",
-        "image": "UGV.jpeg"
+        "image": "UGV.jpeg",
+        "url": "http://www.igvc.org/design/2019/21.pdf"
       },
       {
-        "title": "EveryWear",
-        "category": "Gesture controlled UI for smart mirror",
-        "image": "everywear.png"
-      },
-      {
+        "id": "sck",
         "title": "SCK",
         "category": "Sparse Coding based Keypoint Detector",
-        "image": "SCK.png"
+        "image": "SCK.png",
+        "url": "https://github.com/UnderscoreAsterisk/SCK"
       },
       {
+        "id": "everywear",
+        "title": "EveryWear",
+        "category": "Gesture controlled UI for smart mirror",
+        "image": "everywear.png",
+        "url": "https://youtu.be/GxMuJM49ZKk"
+      },
+      {
+        "id": "stain",
         "title": "Stain Invariance",
         "category": "Stain Invariant histology based on unsupervised domain adaptataion",
         "image": "stain.PNG"
